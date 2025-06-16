@@ -31,8 +31,9 @@ This project improved my skills in designing **power electronics hardware** at b
 
 ### Top View
 
-![Top PCB](images/top_pcb.jpg)
+![Top PCB](pcb/inv_top.png)
 
 ### Bottom View
 
-![Bottom PCB](images/bottom_pcb.jpg)
+![Bottom PCB](pcb/inv_bottom.png)
+
